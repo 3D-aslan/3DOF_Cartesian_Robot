@@ -17,15 +17,18 @@ It combines **mechanical design**, **electronic control**, and **software commun
 ---
 
 ###  Hardware Components
-| Component | Quantity |
-|------------|-----------|
-| Stepper Motors (SY35ST26, SY42STH47, SY35ST28) | 3 |
-| Arduino Uno | 1 |
-| Adafruit Motor Shield v1/v2 | 2 |
-| Linear Bearings | 12 |
-| Lead Screws (Trapezoidal) | 3 |
-| Couplers | 3 |
-| Limit Switches | 3 |
+| Component                                      | Quantity |
+| ---------------------------------------------- | -------- |
+| Stepper Motors (SY35ST26, SY42STH47, SY35ST28) | 3        |
+| Arduino Uno                                    | 1        |
+| Adafruit Motor Shield v1/v2                    | 2        |
+| Shaft Holders                                  | 12       |
+| Chrome-plated Rods                             | 6        |
+| Trapezoidal Lead Screws                        | 3        |
+| Couplers                                       | 3        |
+| Linear Bearings                                | 12       |
+| Pillow Block Bearings                          | 6        |
+| Limit Switches                                 | 3        |
 
 ---
 
