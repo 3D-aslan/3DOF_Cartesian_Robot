@@ -58,3 +58,12 @@ by **Muhammet Hamza Aslan & Furkan Gülseroğlu**, supervised by **Dr. Gökhan E
 
 Full Turkish report: [final_report_tr.pdf](final_report_tr.pdf)
 
+## 📚 References
+
+1. [How to Make Arduino and Processing IDE Communicate](https://maker.pro/arduino/tutorial/how-to-make-arduino-and-processing-ide-communicate)  
+2. [Processing Libraries Reference](https://processing.org/reference/libraries/)  
+3. [Processing Forum – Reading Serial String from Arduino](https://forum.processing.org/two/discussion/20226/how-to-read-serial-string-from-arduino-as-int-on-processing)  
+4. [Adafruit Motor Shield v2 for Arduino](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino)  
+5. [Using Stepper Motors with Adafruit Motor Shield](https://learn.adafruit.com/adafruit-motor-shield/using-stepper-motors)  
+6. [Adafruit Motor Shield PDF Guide](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-motor-shield.pdf)
+
